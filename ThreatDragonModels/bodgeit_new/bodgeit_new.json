@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "bodgeit_new",
+    "owner": "jpw",
+    "description": "bodgeit"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "bodgeit",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "jpw"
+  }
+}
